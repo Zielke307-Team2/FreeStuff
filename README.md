@@ -13,3 +13,4 @@ cd ..
 
 - Frontend can be run by running `npm run frontend`
 - Lint can be run by running `npm run lint`
+- Prettier can be run by running `npm run pretty`
